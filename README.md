@@ -2,7 +2,9 @@
 This repository is created for 3rd year mini project 
 
 How to Access?
-In FRAS file run the *Main.py* file in terminal of Pycharm of CMD and Enjoy !
+
+->In FRAS file run the *Main.py* file in terminal of Pycharm of CMD and Enjoy !
+
 Poject Agenda:
 
 i. Proxy entries will be avoided because everyone has a different biometric(face recognition).
